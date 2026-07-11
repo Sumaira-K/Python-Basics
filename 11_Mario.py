@@ -13,6 +13,7 @@ def print_column(height):
 main()
 
 
+
 # rows
 def main():
     print_row(3)
