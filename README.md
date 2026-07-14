@@ -18,6 +18,15 @@ A comprehensive Python learning course covering fundamental programming concepts
 | 08_Loops.py | Loops | For and while loops |
 | 09_List.py | Lists | List data structures and operations |
 | 10_Dictionary.py | Dictionaries | Dictionary data structures and operations |
+| 11_Mario.py | Mario Project | Advanced project using loops and logic |
+| 12_Exceptions.py | Exceptions | Error handling and exception management |
+| 13_Debugging.py | Debugging | Debugging techniques and tools |
+| 14.0_Libraries.py | Libraries | Introduction to Python libraries |
+| 14.1_Statistics.py | Statistics | Using statistics library |
+| 14.2_Arguments.py | Arguments | Command-line arguments handling |
+| 15_Packages.py | Packages | Creating and using packages |
+| 16_APIs.py | APIs | Working with APIs and requests |
+| 17_Style.py | Style | Code style and PEP 8 conventions |
 
 ## Getting Started
 
@@ -47,9 +56,15 @@ python 01_Hello.py
 
 The course follows a progressive learning path:
 - **Basics** (01-05): Output, variables, and data types
-- **Control Flow** (06-07): Functions and conditionals
-- **Iteration** (08): Loops and repetition
+- **Control Flow** (06-08): Functions, conditionals, and loops
 - **Data Structures** (09-10): Lists and dictionaries
+- **Projects & Advanced Topics** (11-17): Mario, exceptions, debugging, libraries, APIs, and style
+
+## Additional Projects & Files
+
+- **Calculator.py** - A calculator project demonstrating functions and arithmetic operations
+- **Say.py** & **Sayings.py** - Examples of modules and imports
+- **Test_Calculator_1.py**, **Test_Calculator_2.py**, **Test_Calculator_3.py** - Unit tests for the calculator
 
 ## Tips for Success
 
